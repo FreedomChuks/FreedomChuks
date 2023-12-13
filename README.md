@@ -1,5 +1,5 @@
 ### Hi, there 👋🏻👋🏼👋🏽
-i am a android engineeer at <a href="https://aellaapp.com/">AellaCredit</a>
+i am a android engineer at <a href="#">Lloyds Bank</a>
 
 i am currently obessing on <a href="https://kotlinlang.org/lp/mobile/">KMM</a> and <a href="https://developer.android.com/jetpack/compose?gclid=CjwKCAjw1ICZBhAzEiwAFfvFhO68CfH5l3vHEpj7km2s1t9TzLXAfd8UaLuEya4_r-nn-zktHv6sYhoChpEQAvD_BwE&gclsrc=aw.ds">Jetpack-compose </a>
 
